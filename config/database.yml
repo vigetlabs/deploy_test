@@ -1,0 +1,13 @@
+development:
+  adapter: postgresql
+  encoding: utf8
+  database: deploy_test_development
+  pool: 5
+
+production:
+  adapter: postgresql
+  encoding: utf8
+  database: deploy_test_staging
+  pool: 5
+  username: deploy_test
+  password: 4Z4KMxjKAvtge5Dp
