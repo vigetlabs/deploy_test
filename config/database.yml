@@ -4,10 +4,10 @@ development:
   database: deploy_test_development
   pool: 5
 
-production:
+integration:
   adapter: postgresql
   encoding: utf8
-  database: deploy_test_staging
+  database: deploy_test_integration
   pool: 5
   username: deploy_test
   password: 4Z4KMxjKAvtge5Dp
