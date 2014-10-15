@@ -10,4 +10,4 @@ integration:
   database: deploy_test_integration
   pool: 5
   username: deploy_test
-  password: 4Z4KMxjKAvtge5Dp
+  password: 6umZIStSp53ALlMj
