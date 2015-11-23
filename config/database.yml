@@ -9,5 +9,5 @@ integration:
   encoding: utf8
   database: deploy_test_integration
   pool: 5
-  username: deploy_test
-  password: 6umZIStSp53ALlMj
+  username: demo-app
+  password: YxKprNHsWutvWzGv
