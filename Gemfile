@@ -23,7 +23,9 @@ gem 'jbuilder', '~> 2.0'
 gem 'spring',        group: :development
 
 group :development do
-  gem 'viget-deployment', :github => 'vigetlabs/viget-deployment', :require => false
-  gem 'capistrano_rsync_with_remote_cache', :path => '/Users/preagan/Projects/capistrano_rsync_with_remote_cache', :require => false
+  # gem 'viget-deployment',
+  #   :path    => '/Users/preagan/Projects/viget-deployment',
+  #   :require => false
+  # gem 'capistrano_rsync_with_remote_cache', :path => '/Users/preagan/Projects/capistrano_rsync_with_remote_cache', :require => false
 end
 
